@@ -16,6 +16,7 @@ O projeto visa solucionar o gargalo da conciliação bancária manual em softwar
 - **Segurança:** Autenticação via mTLS e OAuth2 (Padrão Open Banking Brasil).
 - **Legislação:** Cálculos baseados na legislação tributária brasileira vigente.
 - **Protocolos:** Criptografia TLS 1.3 para tráfego de dados sensíveis.
+- **Detalhes Técnicos:** Veja a [Especificação de Segurança](./docs/SEGURANCA.md).
 
 ## 🎓 Contexto Acadêmico
 - **Disciplina:** Análise de Conformidade
