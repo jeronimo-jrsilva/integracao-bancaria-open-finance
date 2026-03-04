@@ -23,7 +23,7 @@ Para entender mais sobre o ecossistema, veja: [O que é Open Finance?](./docs/OP
 ## 🎓 Contexto Acadêmico
 - **Disciplina:** Análise de Conformidade
 - **Instituição:** Faculdade Senac
-- **Autores:** Daniela, Fabio Mandu, Rafel Fiurza, Jeronimo Silva
+- **Autores:** Daniela Uchôa, Fabio Mandu, Rafel Fiurza, Jeronimo Silva
 - **Status:** Em fase de especificação de requisitos.
 
 ---
